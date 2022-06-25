@@ -1,9 +1,43 @@
 ### Hi there 👋
 
-[![Wallace GitHub Status](https://github-readme-stats.vercel.app/api?username=Wallace-Bezerra&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=11B148&height=180&section=header&text=Wallace%20Bezerra%20Da%20Silva&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0073CE&size=42&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Wallace;Tenho+20+anos;Eu+sou+de+São+Paulo+Capital;Sou+Desenvolvedor+Web+em+formação;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wallace-Bezerra&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center" >  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Wallace-Bezerra&show_icons=true&count_private=true&hide_border=true&title_color=FFC800&icon_color=00D7D7&text_color=00D7D7&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wallace-Bezerra&layout=compact&hide_border=true&title_color=FFC800&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+### Main skills:
+<div align="">  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  
+</div>
+
+### Tools:
+
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+)&nbsp;
+![Windows](	https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+![Figma](	https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white
+)&nbsp;
+
+
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=Wallace-Bezerra&theme=gotham&hide_border=true&area=true)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MatheusAlvarez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+  
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
+  
