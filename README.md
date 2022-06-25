@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0073CE&height=180&section=header&text=Wallace%20Bezerra%20Da%20Silva&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
