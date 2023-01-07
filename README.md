@@ -46,10 +46,6 @@
 
 <h3>Contact:</h3><a href="https://www.linkedin.com/in/wallace-bezerra/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   
-
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Wallace-Bezerra&theme=gotham&hide_border=true&area=true)
-
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Wallace-Bezerra}/count.svg" /></p> 
