@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0073CE&height=180&section=header&text=Front%20End%Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0073CE&height=180&section=header&text=Front%20End%20Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0073CE&size=42&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Wallace;Tenho+21+anos;Eu+sou+de+São+Paulo+Capital;Sou+Desenvolvedor+Web+em+formação;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
