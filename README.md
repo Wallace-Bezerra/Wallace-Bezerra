@@ -18,13 +18,6 @@ Desenvolvedor **FullStack** em São Paulo (SP), especializado em aplicações **
 
 Crio apps e sites que as pessoas gostam de usar — unindo design, performance e código bem estruturado para transformar ideias em experiências digitais claras e funcionais. Meu trabalho começa no Figma e termina em produção: gosto de carregar a ideia inteira, do primeiro rascunho de interface até a build rodando na mão de quem usa.
 
-- 🚀 **Web** com Next.js e React · **Mobile** com React Native
-- 🧩 Apaixonado por **componentes reutilizáveis** e soluções estruturadas
-- 🧠 **TypeScript** em tudo — erro que o compilador pega é erro que o usuário não vê
-- ⚡ **Performance** não é otimização de última hora: tempo de carregamento faz parte da interface
-- 💬 Me chama sobre **React, Next.js, TypeScript e UI**
-
-
 
 ---
 
